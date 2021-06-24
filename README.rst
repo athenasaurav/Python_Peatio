@@ -17,7 +17,7 @@ Updated 11th May 2021
     :target: https://pypi.python.org/pypi/python-binance
 
 
-This is an unofficial Python wrapper for the ``Peatio exchange REST APIv2 <https://www.openware.com/sdk/2.3/docs/peatio/api/peatio-user-api-v2.html>`_. I am in no way affiliated with Peatio or Openware, use at your own risk.
+This is an unofficial Python wrapper for the `Peatio exchange REST APIv2 <https://www.openware.com/sdk/2.3/docs/peatio/api/peatio-user-api-v2.html>`_. I am in no way affiliated with Peatio or Openware, use at your own risk.
 
 If you came here looking for an exchange to purchase cryptocurrencies, then go `here <https://www.binance.com/en>`_ 
 
