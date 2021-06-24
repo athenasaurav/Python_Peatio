@@ -36,14 +36,18 @@ pip install Python_Peatio
 # To Use
 
 ```
-from Python_Peatio import Auth
+from Python_Peatio.Auth import Auth
 auth = Auth(api_key, api_secret)
+```
 
-# get Nonce and Signature
+# Get Nonce and Signature
+```
 auth.signed_param()
+```
 
 # To place an BUY order
-from Python_Peatio import Market
+```
+from Python_Peatio.Market import Market
 Market = Market(api_key, api_secret)
 order = Market.create_limit_order(
     URL='your http peatio url',
@@ -51,9 +55,11 @@ order = Market.create_limit_order(
     side='buy',
     volume='0.002',
     price='38000')
+```
 
 # To place an SELL order
-from Python_Peatio import Market
+```
+from Python_Peatio.Market import Market
 Market = Market(api_key, api_secret)
 order = Market.create_limit_order(
     URL='your http peatio url',
@@ -61,9 +67,12 @@ order = Market.create_limit_order(
     side='Sell',
     volume='0.002',
     price='38000')
+```
 
 # To cancel an Buy or Sell order
-from Python_Peatio import Market
+
+```
+from Python_Peatio.Market import Market
 Market = Market(api_key, api_secret)
 order = Market.id_cancel(
     URL='your http peatio url',
