@@ -8,7 +8,7 @@ If you want to automate interactions with Peatio Exchanges stick around.
 
 # Source code
 
-Link to **[Source Code]**(https://github.com/athenasaurav/Python_Peatio)
+Link to **[Source Code](https://github.com/athenasaurav/Python_Peatio)**
 
 # Features
    Implementation of all General, Market Data and Account endpoints.
