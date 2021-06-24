@@ -60,10 +60,12 @@ To Use
     from Python_Peatio.Auth import Auth
     auth = Auth(api_key, api_secret)
 
-    # get Nonce and Signature
+# get Nonce and Signature
+::
     auth.signed_param()
 
-    # To place an BUY order
+# To place an BUY order
+::
     from Python_Peatio.Market import Market
     Market = Market(api_key, api_secret)
     order = Market.create_limit_order(
@@ -73,7 +75,8 @@ To Use
         volume='0.002',
         price='38000')
 
-    # To place an SELL order
+# To place an SELL order
+::
     from Python_Peatio.Market import Market
     Market = Market(api_key, api_secret)
     order = Market.create_limit_order(
@@ -83,7 +86,8 @@ To Use
         volume='0.002',
         price='38000')
 
-    # To cancel an Buy or Sell order
+# To cancel an Buy or Sell order
+::    
     from Python_Peatio.Market import Market
     Market = Market(api_key, api_secret)
     order = Market.id_cancel(
