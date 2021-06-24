@@ -5,16 +5,16 @@ Welcome to Open Source Peatio Deployed Exchange API
 Updated 25th June 2021
 
 .. image:: https://img.shields.io/pypi/l/python-binance.svg
-    :target: https://pypi.python.org/pypi/python-binance
-
+    :target: https://pypi.org/project/Python-Peatio/
+              
 .. image:: https://img.shields.io/travis/sammchardy/python-binance.svg
-    :target: https://travis-ci.org/sammchardy/python-binance
+    :target: https://pypi.org/project/Python-Peatio/
 
 .. image:: https://img.shields.io/pypi/wheel/python-binance.svg
-    :target: https://pypi.python.org/pypi/python-binance
+    :target: https://pypi.org/project/Python-Peatio/
 
 .. image:: https://img.shields.io/pypi/pyversions/python-binance.svg
-    :target: https://pypi.python.org/pypi/python-binance
+    :target: https://pypi.org/project/Python-Peatio/
 
 
 This is an unofficial Python wrapper for the `Peatio exchange REST APIv2 <https://www.openware.com/sdk/2.3/docs/peatio/api/peatio-user-api-v2.html>`_. I am in no way affiliated with Peatio or Openware, use at your own risk.
