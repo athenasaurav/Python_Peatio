@@ -8,7 +8,7 @@ If you want to automate interactions with Peatio Exchanges stick around.
 
 # Source code
     
-    [https://github.com/sammchardy/python-binance](https://github.com/sammchardy/python-binance)
+    [https://github.com/athenasaurav/Python_Peatio]
 
 ## Install
 
