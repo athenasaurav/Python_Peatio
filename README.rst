@@ -2,7 +2,7 @@
 Welcome to Open Source Peatio Deployed Exchange API
 ===================================================
 
-Updated 11th May 2021
+Updated 25th June 2021
 
 .. image:: https://img.shields.io/pypi/l/python-binance.svg
     :target: https://pypi.python.org/pypi/python-binance
