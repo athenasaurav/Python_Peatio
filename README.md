@@ -9,26 +9,17 @@ If you want to automate interactions with Peatio Exchanges stick around.
 # Source code
 
 Link to [Source Code](https://github.com/athenasaurav/Python_Peatio)
-   
 
-## Install
-
-Features
-Implementation of all General, Market Data and Account endpoints.
-Asyncio implementation
-Testnet support for Spot, Futures and Vanilla Options
-Simple handling of authentication
-No need to generate timestamps yourself, the wrapper does it for you
-Response exception handling
-Websocket handling with reconnection and multiplexed connections
-Symbol Depth Cache
-Historical Kline/Candle fetching function
-Withdraw functionality
-Deposit addresses
-Margin Trading
-Futures Trading
-Vanilla Options
-Support other domains (.us, .jp, etc)
+# Features
+   Implementation of all General, Market Data and Account endpoints.
+   Simple handling of authentication
+   No need to generate timestamps yourself, the wrapper does it for you
+   Response exception handling
+   Symbol Depth Cache
+   Kline/Candle fetching function
+   Withdraw functionality
+   Deposit addresses
+   Trading
 
 
 ## On Windows
