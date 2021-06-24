@@ -11,9 +11,9 @@ If you want to automate interactions with Peatio Exchanges stick around.
 Link to **[Source Code](https://github.com/athenasaurav/Python_Peatio)**
 
 # Features
-   Implementation of all General, Market Data and Account endpoints.
-   Simple handling of authentication
-   No need to generate timestamps yourself, the wrapper does it for you
+   * Implementation of all General, Market Data and Account endpoints.
+   * Simple handling of authentication
+   * No need to generate timestamps yourself, the wrapper does it for you
    Response exception handling
    Symbol Depth Cache
    Kline/Candle fetching function
