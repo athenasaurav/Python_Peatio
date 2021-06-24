@@ -6,9 +6,8 @@ If you came here looking for the exchange to purchase cryptocurrencies, then go 
 
 If you want to automate interactions with Peatio Exchanges stick around.
 
-# Source code
-    
-    [https://github.com/athenasaurav/Python_Peatio]
+# [Source code](https://github.com/athenasaurav/Python_Peatio)
+   
 
 ## Install
 
