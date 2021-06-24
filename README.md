@@ -1,4 +1,4 @@
-# Open Source Peatio Deployed Exchange API
+## Open Source Peatio Deployed Exchange API
 
 This is an unofficial Python wrapper for the [Peatio exchange REST API v2](https://www.openware.com/sdk/2.3/docs/peatio/api/peatio-user-api-v2.html). I am in no way affiliated with Openware Peatio Project, use at your own risk.
 
@@ -6,7 +6,9 @@ If you came here looking for the exchange to purchase cryptocurrencies, then go 
 
 If you want to automate interactions with Peatio Exchanges stick around.
 
-# [Source code](https://github.com/athenasaurav/Python_Peatio)
+# Source code
+
+    Link to [Source Code](https://github.com/athenasaurav/Python_Peatio)
    
 
 ## Install
