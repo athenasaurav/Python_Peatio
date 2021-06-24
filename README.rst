@@ -66,6 +66,14 @@ To get Nonce and Signature
 
     auth.signed_param()
 
+To get account balance of all the currency on exchange
+======================================================
+::
+    from Python_Peatio.Accounts import Accounts
+    Accounts = Accounts(api_key, api_secret)
+    balances = Accounts.all_currency_balance(
+        URL='your http peatio url')
+
 To place an BUY order
 =====================
 ::
