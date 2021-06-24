@@ -63,11 +63,13 @@ To get Auth Parameter
 To get Nonce and Signature
 ==========================
 ::
+
     auth.signed_param()
 
 To place an BUY order
 =====================
 ::
+
     from Python_Peatio.Market import Market
     Market = Market(api_key, api_secret)
     order = Market.create_limit_order(
@@ -80,6 +82,7 @@ To place an BUY order
 To place an SELL order
 ======================
 ::
+    
     from Python_Peatio.Market import Market
     Market = Market(api_key, api_secret)
     order = Market.create_limit_order(
@@ -92,6 +95,7 @@ To place an SELL order
 To cancel an Buy or Sell order
 ==============================
 ::    
+    
     from Python_Peatio.Market import Market
     Market = Market(api_key, api_secret)
     order = Market.id_cancel(
