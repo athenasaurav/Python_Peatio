@@ -25,6 +25,10 @@ If you came here looking for an exchange to purchase cryptocurrencies, then go `
 Source code
   https://github.com/athenasaurav/Python_Peatio
 
+
+Complete Documentation:
+   https://prescient-automation.medium.com/python-wrapper-for-open-ware-crypto-currency-peatio-based-exchanges-9abe60e7416
+
 Features
 --------
 
@@ -110,9 +114,6 @@ To cancel an Buy or Sell order
     order = Market.id_cancel(
         URL='your http peatio url',
         id = buy or sell id to cancel)
-
-Complete Documentation:
-   https://prescient-automation.medium.com/python-wrapper-for-open-ware-crypto-currency-peatio-based-exchanges-9abe60e7416
 
 Youtube:
    https://youtube.com/channel/UCll57xqeADb2UOlNDIXgYzQ
