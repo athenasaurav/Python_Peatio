@@ -113,3 +113,6 @@ To cancel an Buy or Sell order
 
 Complete Documentation:
    https://prescient-automation.medium.com/python-wrapper-for-open-ware-crypto-currency-peatio-based-exchanges-9abe60e7416
+
+Youtube:
+   https://youtube.com/channel/UCll57xqeADb2UOlNDIXgYzQ
