@@ -111,6 +111,5 @@ To cancel an Buy or Sell order
         URL='your http peatio url',
         id = buy or sell id to cancel)
 
-All the use cases will be uploaded soon
----------------------------------------
-
+Documentation 
+   https://prescient-automation.medium.com/python-wrapper-for-open-ware-crypto-currency-peatio-based-exchanges-9abe60e7416
